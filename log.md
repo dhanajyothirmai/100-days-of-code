@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 3,2020
+### Day 0: January 5, 2020
 
 
 **Today's Progress**: Started a course on Neural Networks and Deep Learning course by Deeplearning.ai (Coursera)
@@ -9,17 +9,22 @@
 
 **Link to work:** [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
-### Day 1: January 4,2020
+### Day 1: January 6, 2020
 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started diving into Bertelsmann Tech Scholarship, AI track, Udacity.
+**Thoughts**: Learnt about 
+              1. Perceptrons
+              2. Error Functions
+              3. Discrete and Continuous functions
+              4. Softmax function
+              5. Onehot encoding technique.
+              6. Maximum Probabilities and minimum error function interesting connection.
+              7. Cross Entropy
+**Link(s) to work**: [ Bertelsmann Tech Scholarship(Udacity Nanodegree)](https://classroom.udacity.com/nanodegrees/nd188-bert/parts/a58738e5-e865-4f64-82e9-cbe7a41b272e/modules/67b445a1-38bc-4128-9d8b-58129e849573/lessons/b4ca7aaa-b346-43b1-ae7d-20d27b2eab65/concepts/760235e0-a3ec-4e56-8cdb-56d762886690)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
+### Day 1: January 7, 2020
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
