@@ -13,6 +13,7 @@
 
 
 **Today's Progress**: Started diving into Bertelsmann Tech Scholarship, AI track, Udacity.
+
 **Thoughts**: Learnt about 
               1. Perceptrons
               2. Error Functions
@@ -21,6 +22,7 @@
               5. Onehot encoding technique.
               6. Maximum Probabilities and minimum error function interesting connection.
               7. Cross Entropy
+              
 **Link(s) to work**: [ Bertelsmann Tech Scholarship(Udacity Nanodegree)](https://classroom.udacity.com/nanodegrees/nd188-bert/parts/a58738e5-e865-4f64-82e9-cbe7a41b272e/modules/67b445a1-38bc-4128-9d8b-58129e849573/lessons/b4ca7aaa-b346-43b1-ae7d-20d27b2eab65/concepts/760235e0-a3ec-4e56-8cdb-56d762886690)
 
 
