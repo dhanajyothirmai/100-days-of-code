@@ -26,12 +26,17 @@
 **Link(s) to work**: [ Bertelsmann Tech Scholarship(Udacity Nanodegree)](https://classroom.udacity.com/nanodegrees/nd188-bert/parts/a58738e5-e865-4f64-82e9-cbe7a41b272e/modules/67b445a1-38bc-4128-9d8b-58129e849573/lessons/b4ca7aaa-b346-43b1-ae7d-20d27b2eab65/concepts/760235e0-a3ec-4e56-8cdb-56d762886690)
 
 
-### Day 1: January 7, 2020
+### Day 1: January 21, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Started learning Database concepts
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Learnt about
+            1. Types of databases
+            2. Features of databases
+            3. Data integrity and constraints
+            4. Types of data integrity
+            5. Primary,Candidate,Foreign Keys
+            6. Entity relationship model
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [DBMS](https://infytq.infosys.com/viewer/lex_auth_0125417986672148481125/lex_auth_01249986736782540816)
