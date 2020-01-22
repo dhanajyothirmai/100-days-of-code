@@ -40,3 +40,23 @@
 
 **Link(s) to work**
 1. [DBMS](https://infytq.infosys.com/viewer/lex_auth_0125417986672148481125/lex_auth_01249986736782540816)
+
+
+### Day 1: January 22, 2020
+
+**Today's Progress**: Started learning Datamining concepts and little of problem solving in C
+
+**Thoughts** Learnt about
+            1. Data cleaning
+            2. Techniques
+
+
+
+
+
+
+
+
+
+
+
